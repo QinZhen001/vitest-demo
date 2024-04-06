@@ -8,7 +8,10 @@
     "test:watch": "vitest --watch"
   },
   "devDependencies": {
-    "vitest": "^1.4.0"
+    "vitest": "^1.4.0",
+    "jsdom": "^24.0.0",
+    "node-fetch":"^3.3.2",
+    "msw":"^2.2.13"
   },
   "author": "",
   "license": "ISC"
